@@ -1,10 +1,10 @@
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wscodingg&label=Profile%20views&color=0e75b6&style=flat" alt="wscodingg" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mobamba64&label=Profile%20views&color=0e75b6&style=flat" alt="mobamba64" /></p>
 
 
 <samp>
-  wscoding - a tech newbie just lurking around, trying to be a better programmer.
+  Marshall - 20yo pretending to be a programmer.
   <br><br>
 </samp>
 
